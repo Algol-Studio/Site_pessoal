@@ -1,0 +1,10 @@
+Movie list:
+Oscar:
+Best movie nominees
+Best foreign picture
+
+Cannes:
+Palme d'or
+
+Venice:
+Golden Lion
